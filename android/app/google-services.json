@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "175173790292",
+    "firebase_url": "https://flutter-mycab-default-rtdb.firebaseio.com",
+    "project_id": "flutter-mycab",
+    "storage_bucket": "flutter-mycab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175173790292:android:846e7b19420cb0a151dbc1",
+        "android_client_info": {
+          "package_name": "com.example.cab_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175173790292-6v5bimj8ih160p8k6qpolkq4vt3um72g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp1lsWw8Y3TLPeKfj7Dt6Hw_1Tizn-QRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175173790292-6v5bimj8ih160p8k6qpolkq4vt3um72g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175173790292:android:da97504da67cc4ad51dbc1",
+        "android_client_info": {
+          "package_name": "com.example.cabn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175173790292-6v5bimj8ih160p8k6qpolkq4vt3um72g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp1lsWw8Y3TLPeKfj7Dt6Hw_1Tizn-QRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175173790292-6v5bimj8ih160p8k6qpolkq4vt3um72g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
